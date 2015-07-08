@@ -1,7 +1,1 @@
 asdasdasdasf
-<<<<<<< HEAD
-szadasd
-=======
-asdasd
-ads
->>>>>>> e1c0f9bcfdcc46132c85e29d1c042255d8274861
